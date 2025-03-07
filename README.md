@@ -31,28 +31,28 @@
 ## PYTHON REPRESENTATION:
 ```
 class = { 
-    #class 1
+    class 1
   0:{
      1:[(0.7 , 1 , 0,False),
        (0.3 , 0 , 0 , False)],
      2:[(0.7 , 0 , 0,False),
        (0.3 , 1 , 0 , False)] 
   },
-    #class 2
+    class 2
   1:{
      1:[(0.7 , 2 , 0,False),
        (0.3 , 0 , 0 , False)],
      2:[(0.7 , 0 , 0,False),
        (0.3 , 2 , 0 , False)]
   },
-    #class 3
+    class 3
   2:{
       1:[(0.7 , 3 , 1,True),
         (0.3 , 1 , 0 , False)],
       2:[(0.7 , 1 , 0,False),
         (0.3 , 3 , 1 , True)]
   },
-    #Rclass 4
+    Rclass 4
   3:{
       1:[(0.7, 3 , 0, True),
         (0.3 , 2 , 0 , False)],
