@@ -63,6 +63,8 @@ class = {
 class
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/f35aa83a-4346-4e81-a6a8-cd6e48149b72)
+
 
 ## RESULT:
 ### Hence we have created an environment suitable for the above mentioned problem.
