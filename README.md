@@ -30,37 +30,31 @@
 
 ## PYTHON REPRESENTATION:
 ```
-class = { 
-    class 1
+classroom= { 
+   
   0:{
-     1:[(0.7 , 1 , 0,False),
-       (0.3 , 0 , 0 , False)],
-     2:[(0.7 , 0 , 0,False),
-       (0.3 , 1 , 0 , False)] 
+     1:[(0.7 , 1 , 0,False),(0.3 , 0 , 0 , False)],
+     2:[(0.7 , 0 , 0,False),(0.3 , 1 , 0 , False)] 
   },
-    class 2
+    
   1:{
-     1:[(0.7 , 2 , 0,False),
-       (0.3 , 0 , 0 , False)],
-     2:[(0.7 , 0 , 0,False),
-       (0.3 , 2 , 0 , False)]
+     1:[(0.7 , 2 , 0,False),(0.3 , 0 , 0 , False)],
+     2:[(0.7 , 0 , 0,False),(0.3 , 2 , 0 , False)]
   },
-    class 3
+   
   2:{
-      1:[(0.7 , 3 , 1,True),
-        (0.3 , 1 , 0 , False)],
-      2:[(0.7 , 1 , 0,False),
-        (0.3 , 3 , 1 , True)]
+      1:[(0.7 , 3 , 1,True),(0.3 , 1 , 0 , False)],
+      2:[(0.7 , 1 , 0,False),(0.3 , 3 , 1 , True)]
   },
-    Rclass 4
+    
   3:{
-      1:[(0.7, 3 , 0, True),
-        (0.3 , 2 , 0 , False)],
-      2:[(0.7, 2 , 0, False),
-        (0.3 , 3 , 0 , True)]
+      1:[(0.7, 3 , 0, True),(0.3 , 2 , 0 , False)],
+      2:[(0.7, 2 , 0, False),(0.3 , 3 , 0 , True)]
   }
 }
-class
+classroom
+# NARESH.R
+# 212223240104
 ```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f35aa83a-4346-4e81-a6a8-cd6e48149b72)
